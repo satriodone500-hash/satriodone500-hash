@@ -12,7 +12,7 @@ Saya adalah mahasiswa program studi Sistem Informasi di Universitas Terbuka. Say
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
+<p align="left">
 
   <img src="https://skillicons.dev/icons?i=python,java,html,css,php,mysql,arduino,vscode&perline=4"/>
 
@@ -20,22 +20,15 @@ Saya adalah mahasiswa program studi Sistem Informasi di Universitas Terbuka. Say
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=satriodone500-hash&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" height="165"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriodone500-hash&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satriodone500-hash&theme=tokyonight" width="100%"/>
 </p>
 
 <p align="center">
-
   <img src="https://streak-stats.demolab.com/?user=satriodone500-hash&theme=tokyonight"/>
-
 </p>
-
 ---
 
 <p align="center">⭐ Jangan lupa kasih star kalau project-ku bermanfaat!</p>
