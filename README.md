@@ -12,10 +12,9 @@ Saya adalah mahasiswa program studi Sistem Informasi di Universitas Terbuka. Say
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
+<p align="justify">
 
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,php,mysql,arduino,vscode&perline=4"/>
-
+ <img src="https://skillicons.dev/icons?i=python,java,html,css,php,mysql,arduino,vscode,linux&perline=5"/>
 </p>
 
 ---
