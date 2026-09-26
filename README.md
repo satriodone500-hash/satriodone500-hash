@@ -26,6 +26,3 @@ I build things because it's more fun than just reading about them.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=satriodone500-hash&theme=tokyonight"/>
 </p>
----
-
-<p align="center">⭐ Jangan lupa kasih star kalau project-ku bermanfaat!</p>
