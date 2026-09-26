@@ -12,7 +12,7 @@ I build things because it's more fun than just reading about them.
 
 <p align="justify">
 
- <img src="https://skillicons.dev/icons?i=python,java,php,mysql,rust,vscode,linux&perline=5"/>
+ <img src="https://skillicons.dev/icons?i=python,java,php,mysql,rust,gns3,wireshark,vscode,linux&perline=5"/>
 </p>
 
 ---
