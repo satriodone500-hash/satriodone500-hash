@@ -6,7 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-Saya adalah mahasiswa program studi Sistem Informasi di Universitas Terbuka. Saya memiliki fokus keahlian pada ekosistem Linux, pengembangan perangkat lunak menggunakan Java dan Laravel, serta administrasi jaringan. Secara kepribadian, saya adalah individu yang analitis, terstruktur, dan memiliki ketertarikan mendalam pada literatur klasik serta pemikiran filosofis. Saya mengutamakan logika dan efisiensi dalam menyelesaikan setiap tantangan teknis maupun profesional. Saat ini, saya berfokus untuk mengintegrasikan pengalaman mengajar dengan pemahaman akademik guna berkontribusi lebih luas di bidang teknologi informasi.
+Hey, I'm Satriyo.
+
+IT stuff, Linux, networking, Rust, and random experiments.
+
+I build things because it's more fun than just reading about them.
 
 ---
 
@@ -14,7 +18,7 @@ Saya adalah mahasiswa program studi Sistem Informasi di Universitas Terbuka. Say
 
 <p align="justify">
 
- <img src="https://skillicons.dev/icons?i=python,java,html,css,php,mysql,arduino,vscode,linux&perline=5"/>
+ <img src="https://skillicons.dev/icons?i=python,java,php,mysql,rust,vscode,linux&perline=5"/>
 </p>
 
 ---
