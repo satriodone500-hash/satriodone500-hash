@@ -12,8 +12,14 @@ I build things because it's more fun than just reading about them.
 
 <p align="justify">
 
- <img src="https://skillicons.dev/icons?i=python,java,php,mysql,rust,gns3,wireshark,vscode,linux&perline=5"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,mysql,rust,vscode,linux&perline=7"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/GNS3-80B5E3?style=for-the-badge&logo=gns3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
+
 
 ---
 
