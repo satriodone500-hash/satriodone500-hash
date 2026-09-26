@@ -1,9 +1,3 @@
-<h1 align="center">Hi there, I'm yoebo 👋</h1>
-
-<h3 align="center">Information Systems Student · Programming & Hardware Enthusiast</h3>
-
----
-
 ## 🙋‍♂️ About Me
 
 Hey, I'm Satriyo.
