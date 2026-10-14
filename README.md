@@ -1,6 +1,11 @@
 <div align="center">
-
-<img src="./assets/43e620c1-f638-4373-a26b-b2442b4a7a24.png" width="360" alt="Red ASCII glitch" />
+<div align="center">
+  <img
+    src="./assets/satriyo_ascii_banner_full.png"
+    width="100%"
+    alt="Full red ASCII portrait"
+  />
+</div>
 
 <h2>Hey, I'm Satriyo.</h2>
 
