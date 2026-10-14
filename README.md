@@ -1,7 +1,7 @@
 <div align="center">
 <div align="center">
   <img
-    src="./assets/satriyo_ascii_banner_full.png"
+    src="./assets/baru.png"
     width="100%"
     alt="Full red ASCII portrait"
   />
