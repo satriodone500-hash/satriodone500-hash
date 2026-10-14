@@ -14,7 +14,7 @@
 ```text
 --------------------------
 USER     : Satriyo
-ROLE     : IT Enthusiast
+ROLE     : IT Guy
 FOCUS    : Linux / Networking
 INTEREST : Infrastructure
 STATUS   : Always building
@@ -22,7 +22,7 @@ STATUS   : Always building
 
 **Hey, I'm Satriyo.**
 
-IT stuff, Linux, networking, Rust, and random experiments.
+IT stuff and random experiments.
 
 I build things because it's more fun than just reading about them.
 
