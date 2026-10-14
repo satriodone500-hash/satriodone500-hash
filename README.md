@@ -9,7 +9,7 @@
 </td>
 <td width="58%" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FF3333&center=false&vCenter=true&width=400&lines=satriyo%40github;IT+%26+Networking;Linux+%7C+Rust+%7C+Infrastructure" alt="Terminal introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FF3333&center=false&vCenter=true&width=400&lines=Linux+%7C+Rust+%7C+Infrastructure" alt="Tech interests" />
 
 ```text
 --------------------------
@@ -30,7 +30,7 @@ I build things because it's more fun than just reading about them.
 </tr>
 </table>
 
-### <code>PROGRAMMING LANGUAGES</code>
+### `PROGRAMMING LANGUAGES`
 
 <img src="https://img.shields.io/badge/Rust-171717?style=flat-square&logo=rust&logoColor=FF3333" />
 <img src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=FF3333" />
@@ -38,5 +38,9 @@ I build things because it's more fun than just reading about them.
 <img src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=FF3333" />
 <img src="https://img.shields.io/badge/HTML-171717?style=flat-square&logo=html5&logoColor=FF3333" />
 <img src="https://img.shields.io/badge/CSS-171717?style=flat-square&logo=css3&logoColor=FF3333" />
+
+### `CONTRIBUTION GRAPH`
+
+<img src="https://ghchart.rshah.org/ff3333/satriodone500-hash" alt="Satriyo's GitHub contributions" width="100%" />
 
 </div>
