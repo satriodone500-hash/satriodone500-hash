@@ -39,8 +39,4 @@ I build things because it's more fun than just reading about them.
 <img src="https://img.shields.io/badge/HTML-171717?style=flat-square&logo=html5&logoColor=FF3333" />
 <img src="https://img.shields.io/badge/CSS-171717?style=flat-square&logo=css3&logoColor=FF3333" />
 
-### `CONTRIBUTION GRAPH`
-
-<img src="https://ghchart.rshah.org/ff3333/satriodone500-hash" alt="Satriyo's GitHub contributions" width="100%" />
-
 </div>
