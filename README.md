@@ -9,23 +9,22 @@
 </td>
 <td width="58%" valign="middle">
 
-<h3><code>satriyo@github</code></h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FF3333&center=false&vCenter=true&width=400&lines=satriyo%40github;IT+%26+Networking;Linux+%7C+Rust+%7C+Infrastructure" alt="Terminal introduction" />
 
-<pre>
-<span>--------------------------</span>
-<span>OS       : Linux enthusiast</span>
-<span>HOST     : satriodone500-hash</span>
-<span>ROLE     : IT & Networking</span>
-<span>FOCUS    : Linux / Rust / TCP-IP</span>
-<span>INTEREST : Infrastructure</span>
-<span>STATUS   : Always building</span>
-</pre>
+```text
+--------------------------
+USER     : Satriyo
+ROLE     : IT Enthusiast
+FOCUS    : Linux / Networking
+INTEREST : Infrastructure
+STATUS   : Always building
+```
 
-<p>Hey, I'm Satriyo.</p>
+**Hey, I'm Satriyo.**
 
-<p>IT stuff, Linux, networking, Rust, and random experiments.</p>
+IT stuff, Linux, networking, Rust, and random experiments.
 
-<p>I build things because it's more fun than just reading about them.</p>
+I build things because it's more fun than just reading about them.
 
 </td>
 </tr>
@@ -33,13 +32,11 @@
 
 ### <code>PROGRAMMING LANGUAGES</code>
 
-<img src="https://img.shields.io/badge/Rust-171717?style=flat-square&logo=rust&logoColor=%23ff4545" />
-<img src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=%23ff4545" />
-<img src="https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=%23ff4545" />
-<img src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=%23ff4545" />
-<img src="https://img.shields.io/badge/HTML-171717?style=flat-square&logo=html5&logoColor=%23ff4545" />
-<img src="https://img.shields.io/badge/CSS-171717?style=flat-square&logo=css3&logoColor=%23ff4545" />
-
-<p><code>~ Always learning. Always building. ~</code></p>
+<img src="https://img.shields.io/badge/Rust-171717?style=flat-square&logo=rust&logoColor=FF3333" />
+<img src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=FF3333" />
+<img src="https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=FF3333" />
+<img src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=FF3333" />
+<img src="https://img.shields.io/badge/HTML-171717?style=flat-square&logo=html5&logoColor=FF3333" />
+<img src="https://img.shields.io/badge/CSS-171717?style=flat-square&logo=css3&logoColor=FF3333" />
 
 </div>
