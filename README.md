@@ -1,31 +1,54 @@
 <div align="center">
-<div align="center">
-  <img
-    src="./assets/baru.png"
-    width="100%"
-    alt="Full red ASCII portrait"
-  />
-</div>
 
-<h2>Hey, I'm Satriyo.</h2>
+<table>
+<tr>
+<td>
+<pre>
+                .:;ir;.
+          .,:;isX253hMHGS#9
+       .:;irsXA2hMNNMMNNMM
+     .:;isX5HMMNNMMNNMMNNM
+    /ssshNMMNNMMNNMMNNMMNN\
+   /ssshNMMNNMMNNMMNNMMNNNN\
+  |ssshNMMNNMMNNMMNNMMNNNNNN|
+  |ssshNMMNNMMNNMMNNMMNNNNNN|
+  |ssssNMMNNMMNNMMNNMMNNNNNN|
+   \ssssNMMNNMMNNMMNNMMNNNN/
+    \ssssshNMMNNMMNNMMNNNN/
+      \ssssshNMMNNMMNNMM/
+         \ssssssssssss/
+</pre>
+</td>
+<td valign="middle">
 
-<p>IT stuff, Linux, networking, Rust, and random experiments.</p>
-<p>I build things because it's more fun than just reading about them.</p>
+<h3>Satriyo@GitHub</h3>
 
-<code>LINUX</code> · <code>NETWORKING</code> · <code>RUST</code> · <code>CYBERSECURITY</code>
+<pre>
+---------------------------
+USER: Satriyo
+ROLE: IT Enthusiast
+FOCUS: Linux & Networking
+CODE: Rust / Python / Java
+STATUS: Always building
+</pre>
 
-<p>
-<img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=CE422B" />
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Networking-111111?style=flat-square&logo=cisco&logoColor=049FD9" />
-<img src="https://img.shields.io/badge/Wireshark-111111?style=flat-square&logo=wireshark&logoColor=1679A7" />
-</p>
+IT stuff, Linux, networking,
+Rust, and random experiments.
 
-<img height="130" src="https://github-readme-stats.vercel.app/api?username=satriodone500-hash&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&title_color=ff3333&icon_color=ff3333&text_color=c9d1d9&include_all_commits=true" />
+I build things because it's more
+fun than just reading about them.
 
-<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriodone500-hash&layout=compact&hide_border=true&hide_title=true&bg_color=0d1117&title_color=ff3333&text_color=c9d1d9" />
+</td>
+</tr>
+</table>
 
-<p><code>Always learning. Always building.</code></p>
+### `// PROGRAMMING LANGUAGES`
+
+<img src="https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
 </div>
