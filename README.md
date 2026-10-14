@@ -2,11 +2,13 @@
 
 <div align="center">
 
-<img
-  src="./assets/43e620c1-f638-4373-a26b-b2442b4a7a24.png"
-  width="100%"
-  alt="Red ASCII glitch artwork"
-/>
+<div align="center">
+  <img
+    src="./assets/43e620c1-f638-4373-a26b-b2442b4a7a24.png"
+    width="75%"
+    alt="Red ASCII glitch artwork"
+  />
+</div>
 
 <br/>
 
