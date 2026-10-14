@@ -35,8 +35,5 @@ I build things because it's more fun than just reading about them.
 <img src="https://img.shields.io/badge/Rust-171717?style=flat-square&logo=rust&logoColor=FF3333" />
 <img src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=FF3333" />
 <img src="https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=FF3333" />
-<img src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=FF3333" />
-<img src="https://img.shields.io/badge/HTML-171717?style=flat-square&logo=html5&logoColor=FF3333" />
-<img src="https://img.shields.io/badge/CSS-171717?style=flat-square&logo=css3&logoColor=FF3333" />
 
 </div>
